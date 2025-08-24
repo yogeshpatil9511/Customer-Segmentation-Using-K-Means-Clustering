@@ -60,6 +60,9 @@ Segmented over 2,240 customers into six actionable groups by leveraging K-Means 
 ├── customer_segmentation.csv
 └── README.md
 ```
+## 🖥️ Streamlit Application Interface Overview
+![Uploading Screenshot 2025-08-24 200331.png…]()
+
 
 ***
 
